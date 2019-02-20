@@ -1,7 +1,0 @@
-# Compiled Files
-*.pyc
-
-# Packages
-*.7z
-*.tar
-*.zip
